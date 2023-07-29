@@ -12,6 +12,9 @@ that is unrelated to learning or forecasting concerning your final aim is known 
 Timestamp values are accepted in the format 'yyyy‑MM‑dd HH:mm:ss. SSSSSS' , and can consist
 of just the date, or just the time, with or without the fractional second portion. 
 For example, you can specify TIMESTAMP values such as '1966‑07‑30' , '08:30:00' , or '1985‑09‑25 17:45:30.005' .
+
+https://adataanalyst.com/wp-content/uploads/2016/08/methods-tackle-seasonal-models1
+
 It is of an additional Feature
 **Techniques to overcom:**
 https://adataanalyst.com/wp-content/uploads/2016/08/methods-tackle-seasonal-models1
@@ -25,6 +28,8 @@ standard error and confidence interval. Jackknife draws repeated samples while l
 without replacing it.
 
 **1.Missing Value Replacement**
+https://medium.com/@danberdov/dealing-with-missing-data-8b71cd819501
+
 
 **Missing Value types**
 MAR
@@ -64,6 +69,9 @@ but since it is lower than a rule of thumb and the mileage is MAR value (this wa
 and one of the most important predictors of the price of the car, it would be a bad choice to drop the variable.
 
 2.Data Imputation:
+
+https://www.analyticsvidhya.com/blog/2021/06/defining-analysing-and-implementing-imputation-techniques/
+
 Imputation is a technique used for replacing the missing data with some substitute value to retain most of the data/information of the dataset. 
 These techniques are used because removing the data from the dataset every time is not feasible and can lead to a reduction in the size of 
 the dataset to a large extend, which not only raises concerns for biasing the dataset but also leads to incorrect analysis.
@@ -125,4 +133,7 @@ The data’s correlation structure has been taken into account.
 Cons:
 When analyzing large databases, the KNN algorithm takes a long time. It searches the entire dataset for the most similar instances.
 The choice of k-value is critical. Here, we include attributes that were significantly different from what we require, in the case of a higher k value. A lower k value implies that significant features are missing.
+
+
+
 

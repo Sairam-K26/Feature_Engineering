@@ -88,7 +88,7 @@ When to Use:-
 When data is not MAR(Missing At Random).
 Suitable for All.
 
-Frequent Category Imputation
+Frequent Category Imputation:
 This technique says to replace the missing value with the variable with the highest frequency or in simple words 
 replacing the values with the Mode of that column. This technique is also referred to as Mode Imputation.
 
@@ -107,7 +107,7 @@ When to Use:-
 Data is Missing at Random(MAR)
 Missing data is not more than 5% – 6% of the dataset.
 
- Prediction Model
+ Prediction Model:
 One of the more sophisticated methods for dealing with missing data is the prediction model. Here, we build a predictive model 
 to estimate values that will fill in for missing data. In our case, we split our data set into two sections: one with no missing
 values for the variable and one with missing values.The first data set becomes the model’s training data set, and the second data set 
@@ -115,4 +115,14 @@ with missing values becomes the model’s test data set, and missing values are 
 to predict the target variable and populate missing values in the test data set. To accomplish this, we can employ regression, ANOVA, 
 logistic regression, and other modeling techniques
 
+ KNN Imputation
+The missing values of an attribute are imputed using the given number of features that are most similar to the feature whose values are missing in this method of imputation. A distance function helps to determine the similarity of two attributes. It is also known to have specific benefits and drawbacks.
+Pros:
+k-nearest neighbor helps to predict both qualitative and quantitative attributes.
+It is not necessary to create a predictive model for each feature with missing data.
+Features with multiple missing values are simple to handle.
+The data’s correlation structure has been taken into account.
+Cons:
+When analyzing large databases, the KNN algorithm takes a long time. It searches the entire dataset for the most similar instances.
+The choice of k-value is critical. Here, we include attributes that were significantly different from what we require, in the case of a higher k value. A lower k value implies that significant features are missing.
 

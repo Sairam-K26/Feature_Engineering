@@ -159,5 +159,33 @@ You might have Item Weight in grams, for example, with a value of 6289. You migh
 Item Weight Kilograms and Item Weight Remainder Grams, with example values of 6 and 289, respectively, could be divided into two features: Item Weight Kilograms and Item Weight Remainder Grams.
 Domain knowledge may exist that items weighing more than 4 pounds are subject to a higher tax rate. In our case of 6289 grams, that magical domain number had used to create a new binary feature. Item weighing more than 4kg with the value “1.”
 
+**Transformation for Feature Engineering** :
+
+
+Convert complicated non-linear relationships to linear ones. A linear relationship between variables is easy to understand as compared to a non-linear or curved relationship. 
+One of the most prevalent transformation techniques utilized in these scenarios is log transformation.
+
+ We use square/cube root or logarithm of variables for right-skewed distributions 
+ 
+ quare/cube or exponential of variables for left-skewed distributions.
+
+ MinMax Scaler
+ 
+Standard Scaler
+
+MaxAbsScaler
+
+Robust Scaler
+
+Quantile Transformer Scaler
+
+Log Transformation
+
+Power Transformer Scaler
+
+Unit Vector Scaler/Normalizer
+
+https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/ 
+
 
 

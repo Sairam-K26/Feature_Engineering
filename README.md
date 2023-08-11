@@ -188,4 +188,4 @@ Unit Vector Scaler/Normalizer
 https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/ 
 
 
-
+https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/?utm_source=blog&utm_medium=types_of_scaling

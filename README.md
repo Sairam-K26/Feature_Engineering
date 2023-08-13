@@ -18,6 +18,9 @@ For example, you can specify TIMESTAMP values such as '1966‑07‑30' , '08:30:
 
 https://adataanalyst.com/wp-content/uploads/2016/08/methods-tackle-seasonal-models1
 
+https://pandas.pydata.org/pandas-docs/version/0.23/api.html#datetimelike-properties
+
+
 It is of an additional Feature
 **Techniques to overcom:**
 

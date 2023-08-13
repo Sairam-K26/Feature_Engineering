@@ -4,6 +4,8 @@ Let's start up the Feature Engineering concept in deep
 
 https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-feature-engineering/
 
+https://developers.google.com/machine-learning/data-prep
+
 **What is it?**
 
 Feature engineering is the process of pre-processing data so that your model/learning
@@ -188,13 +190,16 @@ Power Transformer Scaler
 
 Unit Vector Scaler/Normalizer
 
+**Transformation and scaling**
+
 https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/ 
 
+**Normalisation/Standardisation**
 
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/?utm_source=blog&utm_medium=types_of_scaling
 
 
-https://developers.google.com/machine-learning/data-prep
+
 
 
 

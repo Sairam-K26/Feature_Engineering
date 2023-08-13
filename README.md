@@ -198,6 +198,14 @@ https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and
 
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/?utm_source=blog&utm_medium=types_of_scaling
 
+**Polynomial Feature Transform**
+
+https://bobrupakroy.medium.com/sklearn-polynomialfeatures-feature-engineering-8ec209af9f90
+
+https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/
+
+
+
 
 
 

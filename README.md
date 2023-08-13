@@ -189,3 +189,6 @@ https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and
 
 
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/?utm_source=blog&utm_medium=types_of_scaling
+
+
+https://developers.google.com/machine-learning/data-prep

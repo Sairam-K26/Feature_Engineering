@@ -204,6 +204,11 @@ https://bobrupakroy.medium.com/sklearn-polynomialfeatures-feature-engineering-8e
 
 https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/
 
+**PCA Dimensionality Reduction**
+https://www.geeksforgeeks.org/reduce-data-dimentionality-using-pca-python/
+
+
+
 
 
 

@@ -186,7 +186,7 @@ Quantile Transformer Scaler
 
 Log Transformation
 
-Power Transformer Scaler
+Power Transformer Scaler.
 
 Unit Vector Scaler/Normalizer
 
@@ -205,7 +205,7 @@ https://bobrupakroy.medium.com/sklearn-polynomialfeatures-feature-engineering-8e
 https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/
 
 **PCA Dimensionality Reduction**
-https://www.geeksforgeeks.org/reduce-data-dimentionality-using-pca-python/
+https://www.geeksforgeeks.org/reduce-data-dimentionality-using-pca-python/ 
 
 
 

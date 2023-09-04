@@ -126,7 +126,7 @@ When to Use:-
 Data is Missing at Random(MAR)
 Missing data is not more than 5% – 6% of the dataset.
 
- Prediction Model:
+Prediction Model:
 
 One of the more sophisticated methods for dealing with missing data is the prediction model. Here, we build a predictive model 
 to estimate values that will fill in for missing data. In our case, we split our data set into two sections: one with no missing

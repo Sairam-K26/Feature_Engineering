@@ -147,7 +147,6 @@ Cons:
 When analyzing large databases, the KNN algorithm takes a long time. It searches the entire dataset for the most similar instances.
 The choice of k-value is critical. Here, we include attributes that were significantly different from what we require, in the case of a higher k value. A lower k value implies that significant features are missing.
 
-
 New ratios:
 
 Creating ratios from prior inputs and outputs, rather than merely maintaining them in your dataset, could bring a lot of value. Input/Output (previous performance), productivity, efficiency, and percentages are some of the ratios I’ve utilized in the past.

@@ -104,7 +104,7 @@ Can distort original variable distribution.
 Arbitrary values can create outliers.
 Extra caution required in selecting the Arbitrary value.
 When to Use:-
-When data is not MAR(Missing At Random).
+When data is not MAR(Missing At Random)
 Suitable for All.
 
 Frequent Category Imputation:

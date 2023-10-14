@@ -42,6 +42,7 @@ https://medium.com/@danberdov/dealing-with-missing-data-8b71cd819501
 
 
 **Missing Value types**
+
 MAR
 MCAR
 MNAR
